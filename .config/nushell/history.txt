@@ -1,0 +1,215 @@
+config nu
+$env.EDITOR = 'micro'
+config nu
+config env
+~/.config
+ls
+cd micrp
+./micro
+micro settings.json
+cd ~
+clear
+config nu
+clear
+ls
+clear
+ls
+nix-shell -p ruby
+ls
+cls
+ls
+config nu
+cls
+lsnu
+cls
+ls
+cls
+rails
+ls
+rmf ive*
+rm -rf ive*
+clear
+gem list
+nix-shell -p ruby
+ls
+sudo micro /etc/nixos/configuration.nix
+sqlite3
+slite
+sqlite
+sqlite3
+sudo micro /etc/nixos/configuration.nix
+ls
+ll
+ls -l
+ls -la
+ls .config
+ls .config/micro
+micro .config/micro/settings.json
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo nixos-rebuild switch --show-trace
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+$env.PATH
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+gem install rails
+ls
+cls
+cd rails
+ls
+rails new blog
+cls
+sudo micro /etc/nixos/configuration.nix
+micro ~/.config/micro/settings.json
+cls
+ls
+cls
+ls
+cls
+nix-shell -p ruby
+clip
+copy 
+help yank
+help
+cls
+ls
+cls
+clear
+ls
+cls
+nix-shell -p ruby
+ls
+cls
+ls
+cls
+ls
+nix-shell -p ruby
+cls
+ls
+cls
+ls
+nix-shell -p ruby
+cls
+ls
+cd rails
+cls
+ls
+cls
+ls
+rails
+cd ..
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+nixos upgrade
+nix-channel
+nix-channel --help
+nix-channel --list
+sudo nix-channel --add https://nixos.org/channels/nixos-24.05 nixos
+ls
+rails
+nix-shell -p ruby
+sudo nix-channel --update
+sudo micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+nix-shell -p ruby rubyPackages.railties git sqlite pragtical 
+ls
+sudo micro /etc/nixos/configuration.nix
+cd rails/blog
+ls
+rails console
+cd rails/blog
+rails console
+bundle install
+ls
+cd rails
+ls
+rmf shell.nix
+ls
+rm -rf shell.nix
+ls
+cls
+config nu
+ls
+cls
+ls
+cls
+nix-shell -p warp-terminal
+nixos upgrade
+nixos-upgrade
+nixos-update
+nixos-install --help
+crontab --help
+nix-store --help
+nix-store search
+micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+ls
+mkdir devtest
+cd devtest
+devbox init
+ls
+devbox add elixir
+cls
+cd ..
+rmf devtest/
+cls
+ls
+cls
+mkdir PHP
+cd PHP
+cls
+nix-shell -p php composer
+micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+micro /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+ls
+ls .config
+ls .config/nushell
+cd .config
+ls
+git init .
+gh repo create nixos-configs
+gh repo create nixos-configs --public
+gh auth login
+gh repo create nixos-configs --public
+gra  https://github.com/RayyanNafees/nixos-configs
+gra origin  https://github.com/RayyanNafees/nixos-configs
+git remote add origin  https://github.com/RayyanNafees/nixos-configs
+git add .
+git commit -am "Added .config"
+git push
+git push -u origin master
+git push -u origin master -f
+ls
+git remove gh/**
+git unadd
+git
+git rm gh/**
+git push -u origin master -f
+gh
+cls
+git push -u origin master -f
+ks
+ls
+zip
+zip . -r configs.zip
+zip --help
+which zip
+clear
+/bin/zip

@@ -1,0 +1,56 @@
+{
+  "cache": {
+    "database_names": {
+      "expiration": 1724853912,
+      "data": [
+        {
+          "dbId": "baed7c9b-5c8c-483f-a28c-6bf3140b4ce2",
+          "Name": "coolify",
+          "Regions": [
+            "bom",
+            "fra"
+          ],
+          "PrimaryRegion": "bom",
+          "Hostname": "coolify-rayyannafees.turso.io",
+          "Version": "0.22.19",
+          "Group": "default",
+          "Sleeping": false,
+          "Schema": "",
+          "is_schema": false
+        },
+        {
+          "dbId": "c9f4eaf7-7c63-11ee-936d-f66eefd4350c",
+          "Name": "premier",
+          "Regions": [
+            "bom",
+            "fra"
+          ],
+          "PrimaryRegion": "bom",
+          "Hostname": "premier-rayyannafees.turso.io",
+          "Version": "0.22.19",
+          "Group": "default",
+          "Sleeping": false,
+          "Schema": "",
+          "is_schema": false
+        }
+      ]
+    },
+    "database_token": {
+      "baed7c9b-5c8c-483f-a28c-6bf3140b4ce2": {
+        "expiration": 1724873713,
+        "data": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjUwMjQ5MTEsImlhdCI6MTcyNDg1MjExMSwiaWQiOiJiYWVkN2M5Yi01YzhjLTQ4M2YtYTI4Yy02YmYzMTQwYjRjZTIifQ.oY50AbWar-Yricv7uVEuSRnbekj0WtgiY4pDCMLe4U5AwK9FRLua-k4kYf-6FnolSotLFW3WwdXpXVK6b3tRAA"
+      }
+    },
+    "token_valid": {
+      "eyjhbgcioijsuzi1niisimnhdci6imnsx0i3zdrqrdiymkfbqsisimtpzci6imluc18yyza4r3zneehymlncc3l0d2padm95cedjeduilcj0exaioijkv1qifq_eyjlehaioje3mju0ntu3otmsimlhdci6mtcyndg1mdk5mywiaxnzijoiahr0chm6ly9jbgvyay50dxjzby50zwnoiiwianrpijoimgu1ymm1yjdizdu5nzjmotg5m2milcjuymyioje3mjq4nta5odgsinn1yii6invzzxjfmmmwqvvkvethwmfssm4xchfttfpeoeh4tgi2in0_dkd62imcxiucrigarm4kf_hfs61fk-vf49-dwxfd-vgqhir5qh8enmuvhaiqvwyos5vneanrtuub61htgyfak5pyjuee6jwfyhubx671ueeuogqaedpoudnylgbo4ogwtu5sgobareeme1eekqlwttvbutcrvzbs6t4m1uihjoauqwiwax8ellkggavtuaztjdfkjoc0zj7bne_1devkminb30146eqdiqjicoemyaltw8fshm4j_n1yttunqmkzeraugb5gf26gnd3mv2rclunbzyb0alg-myifu3shvqfnpyzuxjhivvocf8mp9kwcwheuj79fcxbrlog-p-wuhw": {
+        "data": true,
+        "expiration": 1725455793
+      }
+    }
+  },
+  "config": {
+    "last_update_check": 1724850962
+  },
+  "config-path": "",
+  "token": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDIyMkFBQSIsImtpZCI6Imluc18yYzA4R3ZNeEhYMlNCc3l0d2padm95cEdJeDUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjU0NTU3OTMsImlhdCI6MTcyNDg1MDk5MywiaXNzIjoiaHR0cHM6Ly9jbGVyay50dXJzby50ZWNoIiwianRpIjoiMGU1YmM1YjdiZDU5NzJmOTg5M2MiLCJuYmYiOjE3MjQ4NTA5ODgsInN1YiI6InVzZXJfMmMwQVVKVEtHWmFsSm4xcHFtTFpEOEh4TGI2In0.DkD62ImcxiUCrIgARm4Kf_hFs61fK-vF49-DWxfD-VGqHir5Qh8ENMUvhAiqvWYOS5vNEanRtUuB61htGYFAk5PYJUee6JWfYHuBX671UeEuOgQAeDPOUdNYlGBo4OgWTU5SGObaREEmE1eeKQlWttVBUtCrVZbS6T4M1uihjOAUqwiWax8ElLKGgavtUAZtJdFkJOC0Zj7BnE_1deVKMINB30146EqDiqJiCOeMYalTW8Fshm4j_n1YttUNqmkzERAuGb5GF26GNd3Mv2rclunbZYB0aLG-myIFu3sHvQFNPyzUxjhIVvOcF8MP9KwcwheUj79FcxbrlOg-p-WUHw"
+}

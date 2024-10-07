@@ -1,0 +1,1 @@
+return { path = "/home/nixos/rails", documents = {["type"]="leaf",["active_view"]=1,["views"]={[1]={["module"]="core.emptyview",["active"]=true,["type"]="view",["scroll"]={["y"]=0,["x"]=0,["to"]={["x"]=0,["y"]=0}}}}}, directories = {} }
